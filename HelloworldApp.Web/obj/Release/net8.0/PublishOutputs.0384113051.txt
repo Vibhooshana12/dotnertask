@@ -1,0 +1,7 @@
+D:\azure\task2\HelloworldApp\HelloworldApp.Web\bin\Release\net8.0\publish\HelloworldApp.Web.exe
+D:\azure\task2\HelloworldApp\HelloworldApp.Web\bin\Release\net8.0\publish\appsettings.Development.json
+D:\azure\task2\HelloworldApp\HelloworldApp.Web\bin\Release\net8.0\publish\appsettings.json
+D:\azure\task2\HelloworldApp\HelloworldApp.Web\bin\Release\net8.0\publish\HelloworldApp.Web.dll
+D:\azure\task2\HelloworldApp\HelloworldApp.Web\bin\Release\net8.0\publish\HelloworldApp.Web.deps.json
+D:\azure\task2\HelloworldApp\HelloworldApp.Web\bin\Release\net8.0\publish\HelloworldApp.Web.runtimeconfig.json
+D:\azure\task2\HelloworldApp\HelloworldApp.Web\bin\Release\net8.0\publish\HelloworldApp.Web.pdb
